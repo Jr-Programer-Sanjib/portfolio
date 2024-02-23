@@ -6,6 +6,7 @@ import proj2 from '../assets/proj2.png';
 import proj3 from '../assets/proj3.png';
 import proj4 from '../assets/proj4.png';
 
+
 const Work = () => {
   return (
     <div id="work" className="py-6 max-w-[1200px] mx-auto">
@@ -35,7 +36,7 @@ const Work = () => {
           />
         </a>
         <a
-          href="/"
+          href="https://sanjib-fight.netlify.app/"
           className="group h-48 overflow-hidden rounded-lg shadow-lg md:col-span-2 md:h-80"
         >
           <img
@@ -45,7 +46,7 @@ const Work = () => {
           />
         </a>
         <a
-          href="/"
+          href="https://defance.netlify.app/"
           className="group h-48 overflow-hidden rounded-lg shadow-lg md:col-span-2 md:h-80"
         >
           <img
@@ -55,7 +56,7 @@ const Work = () => {
           />
         </a>
         <a
-          href="/"
+          href="https://plumber1.netlify.app/"
           className="group h-48 overflow-hidden rounded-lg shadow-lg md:h-80"
         >
           <img
